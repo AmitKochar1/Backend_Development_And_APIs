@@ -1,6 +1,6 @@
 {
-	"author": "Amit Kochar",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Amit Kochar",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
